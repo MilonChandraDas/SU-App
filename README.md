@@ -1,3 +1,5 @@
+# SU-App
+
 # Sonargaon University ERP Mobile App
 
 A comprehensive Enterprise Resource Planning (ERP) mobile application built with Flutter for Sonargaon University to streamline academic and administrative operations.
